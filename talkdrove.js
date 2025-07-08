@@ -40,8 +40,8 @@
    }, 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
    }, 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
@@ -95,8 +95,8 @@
     },
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
@@ -110,7 +110,7 @@
     },    
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"    
     }, 
     "READ_MESSAGE": {
