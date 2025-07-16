@@ -41,7 +41,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
    }, 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
@@ -96,7 +96,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
